@@ -213,12 +213,6 @@ const Dashboard = () => {
           </Box>
           <Box display="flex" alignItems="center" gap={2}>
             <Avatar sx={{ bgcolor: theme.palette.primary.main }}>SK</Avatar>
-            <Box>
-              <Typography variant="body1">Simon K. Jimmy</Typography>
-              <Typography variant="body2" color="text.secondary">
-                Mortgage Consultant
-              </Typography>
-            </Box>
           </Box>
         </Box>
 

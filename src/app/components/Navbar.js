@@ -3,6 +3,7 @@ import React from 'react';
 import Link from 'next/link';
 import { AppBar, Toolbar, Typography, Button, Box } from '@mui/material';
 import SavingsIcon from '@mui/icons-material/Savings';
+import './Navbar.css'; // define classes using CSS vars
 
 export default function Navbar() {
   return (
